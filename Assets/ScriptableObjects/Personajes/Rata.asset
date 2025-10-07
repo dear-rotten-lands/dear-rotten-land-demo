@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6df2b801b446a4eb14c553ba5579b0, type: 3}
+  m_Name: Rata
+  m_EditorClassIdentifier: 
+  id: 5
+  nombre: Rata
+  equipoPorDefecto: 1
+  hpMax: 100
+  iniciativa: 1
+  energiaBase: 100
+  spriteIdleKey: Characters/Rata/Rata_Idle
+  spriteAttackKey: Characters/Rata/Rata_Atack
+  spriteDefenseKey: Characters/Rata/Rata_Idle
+  spriteDeathKey: Characters/Rata/Rata_DMG
+  spriteDamageKey: Characters/Rata/Rata_DMG
+  spriteRetratoKey: UI/1
+  intencionMuestraValor: 0
+  rotaciones:
+  - nombre: Ronda 1
+    pasos:
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 10
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 20
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 4
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 15
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 3
+  - nombre: Ronda 2
+    pasos:
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 10
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 15
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 4
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 20
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 3
+  - nombre: Ronda 3
+    pasos:
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 5
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 5
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 4
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 4
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 3
+  - nombre: Ronda 4
+    pasos:
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 5
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 5
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 4
+    - indiceSprite: 1
+      tipo: 1
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 4
+    - indiceSprite: 2
+      tipo: 2
+      valor:
+        esRango: 0
+        minimo: 0
+        maximo: 0
+        esLista: 0
+        opciones: 
+        fijo: 3
