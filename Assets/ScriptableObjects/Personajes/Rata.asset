@@ -20,7 +20,7 @@ MonoBehaviour:
   energiaBase: 100
   spriteIdleKey: Characters/Rata/Rata_Idle
   spriteAttackKey: Characters/Rata/Rata_Atack
-  spriteDefenseKey: Characters/Rata/Rata_Idle
+  spriteDefenseKey: Characters/Rata/Rata_Defense
   spriteDeathKey: Characters/Rata/Rata_DMG
   spriteDamageKey: Characters/Rata/Rata_DMG
   spriteRetratoKey: UI/1

@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: e8669360fade4264f8d71dc6814c67cb
+guid: dff02edf39b10204193bd137e0d3ce23
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5637135485933262533
-    second: RataExplosiva_DMG_0
+      213: -1979976575730739515
+    second: RataExplosiva_Def_0
+  - first:
+      213: 7080246629965454416
+    second: RataExplosiva_Def_1
+  - first:
+      213: -7641206777966306035
+    second: RataExplosiva_Def_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RataExplosiva_DMG_0
+      name: RataExplosiva_Def_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 5
-        width: 79
-        height: 84
+        x: 16
+        y: 0
+        width: 32
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +134,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c61dcd8bd02b3e40800000000000000
-      internalID: 5637135485933262533
+      spriteID: 5c699f37bc5b584e0800000000000000
+      internalID: -1979976575730739515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RataExplosiva_Def_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5f351cc6124260800000000000000
+      internalID: 7080246629965454416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RataExplosiva_Def_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dd2089beaf4f590800000000000000
+      internalID: -7641206777966306035
       vertices: []
       indices: 
       edges: []
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RataExplosiva_DMG_0: 5637135485933262533
+      RataExplosiva_Def_0: -1979976575730739515
+      RataExplosiva_Def_1: 7080246629965454416
+      RataExplosiva_Def_2: -7641206777966306035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
